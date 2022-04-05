@@ -9,12 +9,16 @@ TODO :
 Elements dans Unity :
   - voiture
   - terrain
+    -fini
   - pièces
   - bidons
   
+UI :
+  - basic menu
+  
 Code :
   - faire avancer la voiture (bouton gauche)
-  - faire sauter la voiture (bouton droit)
+  - faire freiner la voiture (bouton droit)
   - caméra suit la voiture
   - 
 
